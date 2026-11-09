@@ -1,0 +1,14 @@
+# Environment and downloaded weights (rebuilt by setup.bat / first run)
+.venv/
+models/
+
+# Local state and logs (settings.json holds local folder paths)
+settings.json
+app.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code local files
+.claude/

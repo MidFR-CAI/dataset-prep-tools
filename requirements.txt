@@ -1,0 +1,8 @@
+https://github.com/facebookresearch/sam3/archive/refs/heads/main.zip
+iopaint
+PySide6
+imagehash
+opencv-python-headless
+huggingface_hub
+triton-windows
+pycocotools
